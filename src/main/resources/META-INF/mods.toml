@@ -1,0 +1,18 @@
+modLoader="javafml"
+loaderVersion="[37,)"
+license="MIT"
+
+[[mods]] #mandatory
+modId="tutorialmod" #mandatory
+version="0.0.1" #mandatory
+displayName="Tutorial Mod" #mandatory
+logoFile="tutorialmod.png" #optional
+credits="" #optional
+authors="Alexander Stüben" #optional
+description='''
+
+This is a tutorial mod for
+
+Minecraft 1.17
+
+'''
